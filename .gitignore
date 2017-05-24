@@ -1,3 +1,11 @@
+# build
+/app/build
+/build
+
+# test
+/app/src/test
+/app/src/androidtest
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -40,8 +48,12 @@ $RECYCLE.BIN/
 .VolumeIcon.icns
 
 # Directories potentially created on remote AFP share
+.gradle
+.idea
 .AppleDB
 .AppleDesktop
 Network Trash Folder
 Temporary Items
 .apdisk
+fidgetspinnerdefense_keystore.jks
+app/src/main/res/values/ads.xml

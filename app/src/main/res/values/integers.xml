@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Status Control -->
+    <integer name="rpmValue">20</integer>
+    <integer name="numSize">28</integer>
+    <integer name="spinsLabel">20</integer>
+    <integer name="scoreLabel">54</integer>
+    <integer name="rpmLabel">10</integer>
+
+    <!-- Ball Control -->
+    <integer name="ballSteps">1500</integer>
+    <integer name="initialBallSpawnDelay">1500</integer>
+    <integer name="minimalSpawnDelay">125</integer>
+    <integer name="increaseSpawnTimeEvery">6</integer>
+    <integer name="spawnDiff">100</integer>
+</resources>
